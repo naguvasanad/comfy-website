@@ -1,0 +1,56 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+
+.home_page{
+    margin: auto;
+    width: 75%;
+    margin-top: 8%;
+   display: flex;
+   column-gap: 40px;
+   
+}
+.home_content > h1{
+    font-size: 70px;
+}
+
+.home_img{
+   margin-left: 80px;
+}
+
+.btn_product{
+   margin-top: 40px;
+  padding: 14px 17px;
+  border-radius: 7px;
+  font-size: 16px;
+  text-transform: uppercase;
+  border: 1px solid skyblue;
+  background-color: skyblue;
+  cursor: pointer;
+  letter-spacing: 2px;
+}
+.featured_product{
+    margin: auto;
+    width: 75%;
+    margin-top: 7%;
+}
+.featured_product>p{
+    font-size: 25px;
+    letter-spacing: 3px;
+}
+.hr_line{
+    margin-top: 20px;
+    
+}
+.card_container{
+    margin: auto;
+    width: 70%;
+    display: flex;
+    column-gap: 30px;
+    margin-top: 20px;
+}
+
+
+

@@ -1,0 +1,33 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+.about_content{ 
+    margin: auto;
+    width: 50%;
+    margin-top: 10%;
+}
+.about_head{
+    
+    margin: auto;
+    width: 90%;
+}
+.about_head >h1{
+   display: inline;
+    font-size: 60px;
+}
+
+.head_comfy{
+    border: 1px solid skyblue;
+    width: 25px;
+    margin-bottom: 5px;
+    border-radius: 15%;
+    padding: 0px 6px;
+    background-color: skyblue;
+    letter-spacing: 2px;
+    
+}
+.description{
+    margin-top: 30px;
+}

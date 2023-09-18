@@ -1,0 +1,35 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.account_container{
+    margin: auto;
+    width: 320px;
+    height: 420px;
+    margin-top: 8%;
+    background: transparent;
+    border: 2px solid rgba(255,255,255,.2);
+    backdrop-filter: (20px);
+    box-shadow: 0px 0px 10px rgba(0,0,0,.2);
+    border-radius: 10px;
+}
+.Register_head{
+    margin: auto;
+    width: 40%;
+    padding-top: 20px;
+    margin-bottom: 25px;
+}
+.form-group{
+    padding-left: 30px;
+}
+
+.already{
+    padding-top: 10px;
+    margin-left: 50px;
+    display: flex;
+}
+
+.login{
+    color: blue;
+    text-decoration: none;
+}
